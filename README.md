@@ -4,7 +4,9 @@ which I attended from September 2015 through June 2019. I'll be using this READM
 
 ##### 168 Final Project
 Final report for MATH 168: Networks, course taken Spring 2018.
-Used Matlab to analyze crime reports in 2014, at Chicago, Illinois. 
+Used LaTeX to assemble the report, and used Matlab to analyze crime reports in 2014, at Chicago, Illinois.
+We looked at different variables to find trends in crime either by district, type of crime, month of the year, etc.
+
 Source Data: https://data.cityofchicago.org/Public-Safety/Crimes-2014/qnmj-8ku6
 
 About Math 168:  Introduction to network science (including theory, computation, and applications),
